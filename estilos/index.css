@@ -1,0 +1,13 @@
+
+section{
+    background-color: #F5F5F5;
+    color: #000;
+    padding: 10px;
+    text-align: center;
+}
+
+.capaReceita{
+    max-width: 280px;
+    max-height: 188px;
+    border-radius: 20%;
+}

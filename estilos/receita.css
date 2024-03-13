@@ -1,0 +1,32 @@
+/*#sectionCapa {*/
+/*    text-align: center; !* Centraliza o conteúdo horizontalmente *!*/
+/*    height: 500px; !* Define a altura da seção de capa *!*/
+/*    background-image: url("../imagens/receita1.webp"); !* Define a imagem de fundo *!*/
+/*    background-size: cover; !* Faz a imagem de fundo cobrir toda a área *!*/
+/*    background-position: center; !* Centraliza a imagem de fundo na seção *!*/
+/*}*/
+
+#sectionCapa{
+    text-align: center; /* Centraliza o conteúdo horizontalmente */
+}
+
+.capa{
+    max-width: 500px;
+}
+
+#tituloReceita {
+    text-align: center; /* Centraliza o texto horizontalmente */
+    font-size: 36px; /* Define o tamanho da fonte do título */
+    color: #000; /* Define a cor do texto */
+    padding: 10px; /* Adiciona espaçamento interno */
+    margin: 10px; /* Adiciona espaçamento externo */
+}
+
+.sectionIngredientes, .sectionModoPreparo {
+    background-color: #F5F5F5; /* Define a cor de fundo das seções */
+    color: #000; /* Define a cor do texto */
+    padding: 10px; /* Adiciona espaçamento interno */
+    margin: 10px; /* Adiciona espaçamento externo */
+    border-radius: 20px; /* Adiciona cantos arredondados */
+    font-size: 24px; /* Define o tamanho da fonte */
+}
